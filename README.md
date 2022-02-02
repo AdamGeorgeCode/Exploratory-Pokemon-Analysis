@@ -1,6 +1,6 @@
 # Exploratory Pokemon Analysis
 
-This project is exploratory analysis of the Pokemon dataset sourced from - https://www.kaggle.com/rounakbanik/pokemon
+This project is exploratory analysis of a Pokemon dataset sourced from - https://www.kaggle.com/rounakbanik/pokemon
 
 The questions which are investigated are listed below;
 
